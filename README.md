@@ -1,0 +1,1 @@
+The goal is to Generate Quiz questions that are both relevant and informative based on the content provided in the text file pr file.And you can download the file of the generate quiz  in the pdf file.
